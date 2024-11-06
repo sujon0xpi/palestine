@@ -13,7 +13,7 @@ This tool allows you to show solidarity with Palestine by easily creating a prof
 4. Once your photo is uploaded, click the download button.
 5. 🎉 Your custom Palestine-support profile picture is ready! Show it off to represent your support for Palestine. 💪
 
-If you need further assistance, watch this short [tutorial video](https://youtu.be/LuU1zbwqpQ0?si=0mR2vwm87wFr5Xvo). 📹
+If you need further assistance, watch this short [tutorial video](https://youtu.be/9h1PWlVPaKA?si=sn4v_U-DBd78TA1t). 📹
 
 ## ❗ Disclaimer
 This project is **not open source** but is freely available for use. By using this tool, you can show your support for the people of Palestine.
